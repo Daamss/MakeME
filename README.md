@@ -2,7 +2,7 @@
 
 
 ## Description 
-Generates a simple looking, professional ReadME file for your needs
+Generates a simple looking, professional ReadME file for your needs created with OpenAI
 
 
 ## Installation 
